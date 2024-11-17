@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|c:\\users\\akmal\\source\\repos\\emailotp\\emailotp\\mockemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|solutionrelative:emailotp\\mockemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|c:\\users\\akmal\\source\\repos\\emailotp\\emailotp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|solutionrelative:emailotp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|c:\\users\\akmal\\source\\repos\\emailotp\\emailotp\\emailotpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|solutionrelative:emailotp\\emailotpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|c:\\users\\akmal\\source\\repos\\emailotp\\emailotp\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|solutionrelative:emailotp\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|c:\\users\\akmal\\source\\repos\\emailotp\\emailotp\\emailotp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{255003EF-E43A-49BD-A7C2-34CDF7EF1DA6}|EmailOTP\\EmailOTP.csproj|solutionrelative:emailotp\\emailotp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailOTP",
+              "DocumentMoniker": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\EmailOTP.csproj",
+              "RelativeDocumentMoniker": "EmailOTP\\EmailOTP.csproj",
+              "ToolTip": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\EmailOTP.csproj",
+              "RelativeToolTip": "EmailOTP\\EmailOTP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T09:24:32.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\MockEmailSender.cs",
+              "RelativeDocumentMoniker": "EmailOTP\\MockEmailSender.cs",
+              "ToolTip": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\MockEmailSender.cs",
+              "RelativeToolTip": "EmailOTP\\MockEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:24:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "EmailOTP\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\IEmailSender.cs",
+              "RelativeToolTip": "EmailOTP\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:16:33.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailOTPModule.cs",
+              "DocumentMoniker": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\EmailOTPModule.cs",
+              "RelativeDocumentMoniker": "EmailOTP\\EmailOTPModule.cs",
+              "ToolTip": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\EmailOTPModule.cs",
+              "RelativeToolTip": "EmailOTP\\EmailOTPModule.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:07:57.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\Program.cs",
+              "RelativeDocumentMoniker": "EmailOTP\\Program.cs",
+              "ToolTip": "C:\\Users\\akmal\\source\\repos\\EmailOTP\\EmailOTP\\Program.cs",
+              "RelativeToolTip": "EmailOTP\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:04:29.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
